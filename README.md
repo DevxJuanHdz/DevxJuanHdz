@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e40af,50:0d9488,75:3b82f6,100:0f172a&height=240&section=header&text=Hi%2C%20I'm%20DevxJuanito01%20%F0%9F%91%8B&fontSize=58&fontColor=fafafa&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Web%20Applications%20%E2%80%A2%20Mexico&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e40af,50:0d9488,75:3b82f6,100:0f172a&height=240&section=header&text=Hi%2C%20I'm%20DevxJuanHdz%20%F0%9F%91%8B&fontSize=58&fontColor=fafafa&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Web%20Applications%20%E2%80%A2%20Mexico&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -22,7 +22,7 @@
 
  
 
-<img src="https://komarev.com/ghpvc/?username=DevxJuanito01&color=0d9488&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=DevxJuanHdz&color=0d9488&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -85,8 +85,8 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
 ```
   <!-- Replace these links with your actual profiles -->
 
-  <a href="https://github.com/DevxJuanito01">
-    <img src="https://img.shields.io/badge/GitHub-DevxJuanito01-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/DevxJuanHdz">
+    <img src="https://img.shields.io/badge/GitHub-DevxJuanHdz-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <br/><br/>
@@ -297,13 +297,13 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevxJuanito01&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevxJuanHdz&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevxJuanito01&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevxJuanHdz&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevxJuanito01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevxJuanHdz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -320,7 +320,7 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevxJuanito01&bg_color=0f172a&color=0d9488&line=3b82f6&point=ffffff&area=true&area_color=1e40af&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevxJuanHdz&bg_color=0f172a&color=0d9488&line=3b82f6&point=ffffff&area=true&area_color=1e40af&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -341,7 +341,7 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
   Then replace the image URL below with your generated file.
 -->
 
-<img src="https://raw.githubusercontent.com/DevxJuanito01/DevxJuanito01/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/DevxJuanHdz/DevxJuanHdz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
