@@ -95,14 +95,6 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <br/><br/>
-```
-  <!-- Add your portfolio -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0d9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  ```
-
 </td>
 
 <td align="center" valign="middle" width="50%" style="border: 0;">
@@ -127,107 +119,6 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
 
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
-</div>
-
-<!-- ─── FEATURED PROJECTS ─────────────────────────────────────────────── -->
-
-<div align="center">
-  <sub><b>· &nbsp; F E A T U R E D &nbsp; P R O J E C T S &nbsp; ·</b></sub>
-
-<br/><br/>
-
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Project</th>
-        <th align="center">Stack</th>
-        <th align="center">Description</th>
-      </tr>
-    </thead>
-
-
-<tbody>
-
-  <tr>
-    <td align="center">
-      <b>Daguel Real Estate</b>
-    </td>
-
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs&theme=light" alt="Stack"/>
-    </td>
-
-    <td align="center">
-      Real estate platform focused on property discovery and user experience.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Vamos al Concierto</b>
-    </td>
-
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel&theme=light" alt="Stack"/>
-    </td>
-
-    <td align="center">
-      Event platform built with modern web technologies.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>CAPAZA</b>
-    </td>
-
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel&theme=light" alt="Stack"/>
-    </td>
-
-    <td align="center">
-      Business website developed and deployed for production.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Altruismo</b>
-    </td>
-
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel&theme=light" alt="Stack"/>
-    </td>
-
-    <td align="center">
-      Modern business website focused on performance and presentation.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Truck Milán</b>
-    </td>
-
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel&theme=light" alt="Stack"/>
-    </td>
-
-    <td align="center">
-      Corporate website project built with Next.js.
-    </td>
-  </tr>
-
-</tbody>
-
-  </table>
-
-</div>
 
 <br/>
 
