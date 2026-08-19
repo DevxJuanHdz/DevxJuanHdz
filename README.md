@@ -43,7 +43,7 @@ Full Stack Developer focused on building modern, scalable and user-friendly web 
 Currently working with **React, Next.js, TypeScript, Node.js and modern web technologies**, while continuously expanding my backend knowledge with **Python, Django, REST APIs and PostgreSQL**.
 
 💻   Full Stack Developer at **DroneFilms / Daguel Real Estate**
-🎓   Computer Systems Engineering student
+🎓   Software Engineer
 🚀   Building real-world web platforms and business websites
 🧠   Currently strengthening backend development & system design
 🌎   Based in Mexico
