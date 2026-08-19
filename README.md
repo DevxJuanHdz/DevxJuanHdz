@@ -210,7 +210,7 @@ I'm currently **open to new opportunities** where I can contribute to real proje
   Then replace the image URL below with your generated file.
 -->
 
-<img src="https://raw.githubusercontent.com/DevxJuanHdz/DevxJuanHdz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/DevxJuanHdz/DevxJuanHdz/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
