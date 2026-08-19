@@ -40,7 +40,9 @@
 
 Full Stack Developer focused on building modern, scalable and user-friendly web applications.
 
-Currently working with **React, Next.js, TypeScript, Node.js and modern web technologies**, while continuously expanding my backend knowledge with **Python, Django, REST APIs and PostgreSQL**.
+I enjoy turning ideas into real-world products, working across both frontend and backend development. My current stack includes React, Next.js, TypeScript and Node.js, while I'm expanding my backend expertise with Python, Django, REST APIs and PostgreSQL.
+
+I'm currently **open to new opportunities** where I can contribute to real projects, continue growing as a developer and take on new technical challenges.
 
 💻   Full Stack Developer at **DroneFilms / Daguel Real Estate**
 🎓   Software Engineer
@@ -50,6 +52,7 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
 
 ### Currently
 
+💼   Open to new opportunities as a **Full Stack Developer**
 🔨   Building and maintaining production web applications
 ⚛️   Working with React, Next.js & TypeScript
 🗄️   Improving my knowledge of PostgreSQL, Prisma & backend architecture
