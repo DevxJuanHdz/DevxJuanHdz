@@ -71,18 +71,17 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
       <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
     </td>
 
-```
+
 <td align="center" width="50%" style="border: 0;">
   <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
 </td>
-```
+
 
   </tr>
 
   <tr>
     <td align="center" valign="middle" width="50%" style="border: 0;">
 
-```
   <!-- Replace these links with your actual profiles -->
 
   <a href="https://github.com/DevxJuanHdz">
@@ -92,16 +91,17 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
   <br/><br/>
 
   <!-- Add your LinkedIn -->
-  <a href="#">
+  <a href="https://www.linkedin.com/in/devxjuanhdz">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <br/><br/>
-
+```
   <!-- Add your portfolio -->
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Website-0d9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  ```
 
 </td>
 
@@ -124,7 +124,6 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
   </a>
 
 </td>
-```
 
   </tr>
 </table>
@@ -151,7 +150,7 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
       </tr>
     </thead>
 
-```
+
 <tbody>
 
   <tr>
@@ -225,7 +224,6 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
   </tr>
 
 </tbody>
-```
 
   </table>
 
@@ -253,7 +251,7 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
       <sub>Backend Development</sub>
     </td>
 
-```
+
 <td align="center">
   🌐<br/>
   <b>Django</b><br/>
@@ -283,35 +281,12 @@ Currently working with **React, Next.js, TypeScript, Node.js and modern web tech
   <b>System Design</b><br/>
   <sub>Backend Architecture</sub>
 </td>
-```
+
 
   </tr>
 </table>
 
 <br/>
-
-<!-- ─── STATS ─────────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <sub><b>· &nbsp; G I T H U B &nbsp; S T A T S &nbsp; ·</b></sub>
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevxJuanHdz&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevxJuanHdz&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevxJuanHdz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0d9488,100:0f172a&height=3&section=header" alt=""/>
-</div>
 
 <!-- ─── ACTIVITY ──────────────────────────────────────────────────────── -->
 
